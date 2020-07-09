@@ -10,5 +10,9 @@ ddd
 >>>>>>> remotes/laijianping/fen1
 =======
 eeeeeeeee
+<<<<<<< HEAD
 >>>>>>> 6c67ad1eca04bee79f9784977422ff5b146eea68
 
+=======
+fffff
+>>>>>>> remotes/laijianping/fen1
