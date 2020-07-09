@@ -1,5 +1,10 @@
 aaa
 ddd
 bbb
+<<<<<<< HEAD
 eee
+=======
+ddd
+ddd
+>>>>>>> remotes/laijianping/fen1
 
